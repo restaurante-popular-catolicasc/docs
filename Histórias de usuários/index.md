@@ -1,6 +1,4 @@
-# Histórias de usuários
-
-## Estoque
+# Estoque
 ### Eu como estoquista:
 1. Gostaria de
 verificar e registrar o que
@@ -15,8 +13,3 @@ no sistema, informando a quantidade  da entrada, nome do produto e o que recebeu
 com acesso aos lotes para controlar cada produto.
 
 4. Gostaria de obter relatório da movimentação do estoque entre as filiais, demonstrando os produtos que saíram e produtos que foram recebidos  no estoque.
-
-## Produtos
-
-## Fornecedores
-
