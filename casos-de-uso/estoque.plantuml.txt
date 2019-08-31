@@ -1,0 +1,45 @@
+@startuml
+
+left to right direction
+
+title Restaurante Popular
+
+rectangle "Controle de Usuário" {
+    (Validar Usuário) as Login
+    (Manter Usuário) as MU
+}
+
+rectangle Estoque {
+    (Manter Item) as MI
+    (Receber Item) as RI
+    (Registrar Saída de Item) as RSI
+    (Emitir Relatórios) as ER
+    (Manter Fornecedor) as MF
+    (Manter Filial) as MFI
+    (Manter Nota Fiscal) as MNF
+    (Manter Tipos de Unidade) as MTU
+}
+
+:Estoquista: 
+:Nutricionista:
+:Comprador:
+
+
+Estoquista --> MI
+Estoquista --> RI
+Estoquista --> RSI
+Comprador --> MF
+Comprador --> MFI
+Nutricionista --> ER
+Comprador --> MU
+
+MI ..> (Login) : << include >>
+RI ..> (Login) : << include >>
+RSI ..> (Login) : << include >>
+ER ..> (Login) : << include >>
+MF ..> (Login) : << include >>
+MFI ..> (Login) : << include >>
+
+
+
+@enduml
