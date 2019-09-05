@@ -15,4 +15,4 @@
 
 ## Como contribuir
 
-Para saber como contribuir ao projeto [clique aqui](CONTRIBUTING.md)
+Para saber como contribuir ao projeto [clique aqui](.github/CONTRIBUTING.md)
