@@ -8,6 +8,7 @@
 ## Histórias de usuários
 
 - [Estoque](historias-de-usuarios/estoque.md)
+- [Ordens de Preparo](historias-de-usuarios/ordens-de-preparo.md)
 
 ## Casos de Uso
 
