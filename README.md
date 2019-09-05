@@ -2,7 +2,7 @@
 
 ## Objetivo Geral do Sistema
 
-Gerenciar  cardápio e estoque de todas as filiais do restaurante comunitário de Joinville.
+Gerenciar cardápio e estoque de todas as filiais do restaurante comunitário de Joinville.
 
 ## Objetivos Específicos do Sistema
 
@@ -10,7 +10,7 @@ Gerenciar  cardápio e estoque de todas as filiais do restaurante comunitário d
 - Gerenciar o cardápio das filiais do restaurante comunitário.
 - Gerar ordens de compra a partir do cardápio, com base no estoque.
 - Gerar ordens de compra manualmente.
-- Gerar ordens de produção conforme o cardápio do dia. 
+- Gerar ordens de produção conforme o cardápio do dia.
 - Permitir acesso externo ao cardápio.
 - Permitir acesso externo às ordens de compra.
 
@@ -21,3 +21,7 @@ Gerenciar  cardápio e estoque de todas as filiais do restaurante comunitário d
 ## Casos de Uso
 
 1. [Estoque](casos-de-uso/estoque.md)
+
+## Como contribuir
+
+Para saber como contribuir ao projeto [clique aqui](CONTRIBUTING.md)
