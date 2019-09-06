@@ -10,4 +10,4 @@
 
 # Diagrama Básico do Sistema
 
-![Diagrama básico do sistema](assets/basic-diagram.png)
+![Diagrama básico do sistema](../assets/basic-diagram.png)
