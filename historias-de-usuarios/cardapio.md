@@ -1,6 +1,6 @@
 # História do Cardápio
 
-## Cadastro de Fica Técnica
+## Cadastro de Ficha Técnica
 
 ### Nutricionista
 
