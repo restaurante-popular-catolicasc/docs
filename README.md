@@ -9,6 +9,7 @@
 
 - [Estoque](historias-de-usuarios/estoque.md)
 - [Ordens de Preparo](historias-de-usuarios/ordens-de-preparo.md)
+- [Cardápio](historias-de-usuarios/cardapio)
 
 ## Casos de Uso
 
