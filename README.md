@@ -5,6 +5,8 @@
 - [Geral do Sistema](objetivos/objetivo-geral-do-sistema.md)
 - [Específicos do Sistema](objetivos/objetivos-especificos-do-sistema.md)
 
+![Diagrama básico do sistema](assets/basic-diagram.png)
+
 ## Histórias de usuários
 
 - [Estoque](historias-de-usuarios/estoque.md)
