@@ -64,7 +64,7 @@ Tela com todos os dados do cardápio incluindo os produtos, quantidade e valor p
 
 ### Quero
 
-Poder enviar a minha decição, com base na minha análise para a nutricíonista. Junto com um breve texto explicando o porque da minha decição caso o cardápio não seja aprovado.
+Poder enviar a minha decisão, com base na minha análise para a nutricíonista. Junto com um breve texto explicando o porque da minha decisão caso o cardápio não seja aprovado.
 
 ### Para
 
