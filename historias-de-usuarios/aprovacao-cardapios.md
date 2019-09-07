@@ -44,7 +44,7 @@ Poder análise dos produtos.
 
 ### Definição de Pronto
 
-Uma tela online,com uma tabela contendo os dias de emisão dos cardápios, junto com o tipo do cardápio(mensal ou semanal), e o status (Já avaliado ou Falta avalião).
+Uma tela online,com uma tabela contendo os dias de emissão dos cardápios, junto com o tipo do cardápio(mensal ou semanal), e o status (Já avaliado ou Falta avaliação).
 
 ## Fiscal da prefeitura (analisando o cardápio)
 
