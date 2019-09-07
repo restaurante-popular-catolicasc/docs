@@ -72,4 +72,4 @@ Poder enviar o feedback da análise do cardápio à nutricionista.
 
 ### Definição de Pronto
 
-Tela com um opção de "Aprovado" ou "Reprovado", junto a uma areá de tamanho médio para o texto explicativo, caso seja selecionado a opção "Reprovado".
+Tela com um opção de "Aprovado" ou "Reprovado", junto a uma área de tamanho médio para o texto explicativo, caso seja selecionado a opção "Reprovado".
