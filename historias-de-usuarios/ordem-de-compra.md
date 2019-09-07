@@ -1,8 +1,11 @@
-# Ordens de Preparo
+# Ordem de Compra
 
-### Eu como comprador:
+## Comprador
 
-1. Eu como estoquista gostaria de enviar um relatório para o comprador.
-2. Eu como comprador gostaria de enviar uma ordem de compra para o fornecedor.
-3. Eu como um comprador gostaria de emitir relatórios mensais para verificar quantidades gastas por pedido.
-4. Eu como comprador gostaria de verificar o relatório de compras do estoquista.
+### Quero
+
+- Visualizar o relatorio de produtos sugeridos para compra.
+- Enviar uma ordem de compra para o fornecedor.
+- Emitir relatórios para controle de quantidade e valores de produtos.
+- Visualizar todos os produtos e forncedores cadastrados no sistema.
+- Visualizar as receitas a fim de prever produtos que deverão ser comprados futuramente. 
