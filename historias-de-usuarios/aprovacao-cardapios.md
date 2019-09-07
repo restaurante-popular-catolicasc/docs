@@ -50,7 +50,7 @@ Uma tela online,com uma tabela contendo os dias de emisão dos cardápios, junto
 
 ### Quero
 
-Ter todos os dados do cardápio incluindo os produtos, quantidade e valor.
+Ter os dados das guarnições, saladas e carnes.
 
 ### Para
 
