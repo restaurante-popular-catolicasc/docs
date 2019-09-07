@@ -58,7 +58,7 @@ Poder aprovar ou recusar o cardápio.
 
 ### Definição de Pronto
 
-Tela com todos os dados do cardápio incluindo os produtos, quantidade e valor para ánalise.
+Tela com todos os dados do cardápio incluindo os produtos, quantidade e valor para análise.
 
 ## Fiscal da prefeitrua (enviando o feedback do cardápio)
 
