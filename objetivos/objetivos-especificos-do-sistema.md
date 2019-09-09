@@ -7,3 +7,7 @@
 - Gerar ordens de produção conforme o cardápio do dia;
 - Permitir acesso externo ao cardápio;
 - Permitir acesso externo às ordens de compra.
+
+# Diagrama Básico do Sistema
+
+![Diagrama básico do sistema](../assets/basic-diagram.png)

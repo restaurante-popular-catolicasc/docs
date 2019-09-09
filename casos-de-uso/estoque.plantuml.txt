@@ -4,23 +4,23 @@ left to right direction
 
 title Restaurante Popular
 
-rectangle "Controle de Usuário" {
-    (Validar Usuário) as Login
-    (Manter Usuário) as MU
+rectangle "Controle de UsuÃ¡rio" {
+    (Validar UsuÃ¡rio) as Login
+    (Manter UsuÃ¡rio) as MU
 }
 
 rectangle Estoque {
     (Manter Item) as MI
     (Receber Item) as RI
-    (Registrar Saída de Item) as RSI
-    (Emitir Relatórios) as ER
+    (Registrar SaÃ­da de Item) as RSI
+    (Emitir RelatÃ³rios) as ER
     (Manter Fornecedor) as MF
     (Manter Filial) as MFI
     (Manter Nota Fiscal) as MNF
     (Manter Tipos de Unidade) as MTU
 }
 
-:Estoquista: 
+:Estoquista:
 :Nutricionista:
 :Comprador:
 
