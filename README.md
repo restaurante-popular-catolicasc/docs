@@ -7,9 +7,10 @@
 
 ## Histórias de usuários
 
+- [Aprovação de Cardápios](historias-de-usuarios/aprovacao-cardapios.md)
+- [Cadastro de Usuários](historias-de-usuarios/cadastro-usuarios.md)
 - [Estoque](historias-de-usuarios/estoque.md)
 - [Ordens de Preparo](historias-de-usuarios/ordens-de-preparo.md)
-- [Aprovação de Cardápios](historias-de-usuarios/aprovacao-cardapios.md)
 
 ## Casos de Uso
 
