@@ -17,7 +17,7 @@ Gerenciar  cardápio e estoque de todas as filiais do restaurante comunitário d
 ## Histórias de usuários
 
 1. [Estoque](historias-de-usuarios/estoque.md)
-2. [Cadastro de Usuários](historias-de-usuarios/Cadastro de usuários.md)
+2. [Cadastro de Usuários](historias-de-usuarios/cadastro-usuarios.md)
 
 ## Casos de Uso
 
