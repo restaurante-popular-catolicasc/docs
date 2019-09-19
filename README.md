@@ -11,7 +11,7 @@
 - [Cadastro de Usuários](historias-de-usuarios/cadastro-usuarios.md)
 - [Estoque](historias-de-usuarios/estoque.md)
 - [Ordens de Preparo](historias-de-usuarios/ordens-de-preparo.md)
-- [Ordens de Compra](historias-de-usuarios/ordens-de-compra.md)
+- [Ordem de Compra](historias-de-usuarios/ordem-de-compra.md)
 
 ## Casos de Uso
 
