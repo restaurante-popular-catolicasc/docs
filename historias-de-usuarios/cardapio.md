@@ -15,7 +15,7 @@
 
 #### Quero
 
-- Receber a ficha técnica e a receita do dia impressa, ir até o estoque já com a ordem de produção retirada com a nutricionista para que o estoquista me forneça os produtos que preciso para a receita.
+- Receber a ficha técnica e a receita do dia impressa e que seja gerada a ordem de produção do dia para que o estoquista faça a retirada dos produtos necessarios para as receitas do dia.
 
 ### Estoquista
 
