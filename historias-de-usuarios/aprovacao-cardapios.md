@@ -4,7 +4,7 @@
 
 ### Quero
 
-- Enviar para o estoquista todos os todas os cardápios em lote para compra de alimentos e repasse para produção;
+- Enviar para o estoquista todos os cardápios em lote para compra de alimentos e repasse para produção;
 - Além disso quero programar envios de cardápios recorrentes para os dias em que os cardápios se repetem;
 - Os cardápios devem ser encaminhados para email para o fiscal da prefeitura responsável, permitindo a troca do mesmo quando necessário.
 
