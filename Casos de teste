@@ -1,0 +1,7 @@
+Buscando um Produto
+
+Dado que eu acesso a pagina principal
+Quando eu acesso o menu cadastro - > Prodto
+Então eu devo digitar o código ou nome do produto
+E então eu devo clicar em pesquisar
+E devo visualisar os produtos.
