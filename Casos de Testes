@@ -1,1 +1,10 @@
 
+Pesquisando Produtos
+
+Dado que eu acesso a pagina principal
+Quando eu acesso o Menu cadastro - > Produto
+Então eu devo digitar o código ou nome do Produto
+E devo clicar em pesquisar
+Então devo visualizar os produtos.
+
+
