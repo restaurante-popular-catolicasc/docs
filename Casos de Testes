@@ -1,17 +1,24 @@
 Cadastrar um Produto
 
 Dado que eu acesso a pagina principal
-Quando eu acesso o Menu cadastro - > Produto
-Então eu devo criar um novo produto
+Quando eu acesso o Menu cadastro - > Cadastar Produto
+Então eu devo cadastrar um novo produto
 Então eu devo verificar todos os campos obrigatórios
 E então devo salvar com sucesso.
 
+
+Cadastrar um produto existente
+
+Dado que eu acesso a pagina principal
+Quando eu acesso o Menu cadastro - > Cadastar Produto
+Dado que ao preencher o campo "nome do Produto", o sistema deve indentificar se o produto já esta cadastrado.
+E então a aplicação deve retornar: "Produto existente"
 
 
 Pesquisando Produtos
 
 Dado que eu acesso a pagina principal
-Quando eu acesso o Menu cadastro - > Produto
+Quando eu acesso o Menu cadastro - > Cadastrar Produto
 Então eu devo digitar o código ou nome do Produto
 E devo clicar em pesquisar
 Então devo visualizar os produtos.
@@ -21,7 +28,7 @@ Então devo visualizar os produtos.
 Editando um Produto
 
 Dado que eu acesso a pagina principal
-Quando eu acesso o Menu cadastro - > Produto
+Quando eu acesso o Menu cadastro - > Cadastrar Produto
 Então eu devo pesquisar e editar um produto
 E então devo salvar com sucesso.
 
@@ -31,8 +38,55 @@ E então devo salvar com sucesso.
 Excluindo um Produto
 
 Dado que eu acesso a pagina principal
-Quando eu acesso o Menu cadastro - > Produto
+Quando eu acesso o Menu cadastro - > Cadastrar Produto
 Então eu devo pesquisar, selecionar e excluir um produto.
+
+
+----------------------------------------------------------------------------------------------------------------------------
+
+
+Cadastrar um Fornecedor
+
+Dado que eu acesso a pagina principal
+Quando eu acesso o Menu cadastro - > Cadastrar Fornecedor
+Então eu devo cadastrar um novo Fornecedor
+Então eu devo verificar todos os campos obrigatórios
+E então devo salvar com sucesso.
+
+
+Cadastrar um fornecedor existente
+
+Dado que eu acesso a pagina principal
+Quando eu acesso o Menu cadastro - > Cadastar Fornecedor
+Então eu devo cadastrar um fornecedor existente
+Dado que ao preencher o campo "nome do fornecedor", o sistema deve indentificar se o fornecedor já possui cadastro.
+E então a aplicação deve retornar: "Fornecedor existente"
+
+
+Pesquisando Fornecedor
+
+Dado que eu acesso a pagina principal
+Quando eu acesso o Menu cadastro - > Cadastrar Fornecedor
+Então eu devo digitar o código ou nome do Fornecedor
+E devo clicar em pesquisar
+Então devo visualizar os Fornecedores.
+
+
+
+Editando um Fornecedor
+
+Dado que eu acesso a pagina principal
+Quando eu acesso o Menu cadastro - > Cadastrar Fornecedor
+Então eu devo pesquisar e editar um fornecedor
+E então devo salvar com sucesso.
+
+
+
+Excluindo um Fornecedor
+
+Dado que eu acesso a pagina principal
+Quando eu acesso o Menu cadastro - > Cadastrar Fornecedor
+Então eu devo pesquisar, selecionar e excluir um fornecedor.
 
 
 ----------------------------------------------------------------------------------------------------------------------------
@@ -45,6 +99,15 @@ Quando eu acesso o Menu cadastro - > Ficha técnica
 Então eu devo criar uma nova técnica
 Então eu devo verificar todos os campos obrigatórios
 E então devo salvar com sucesso.
+
+
+Cadastrar uma ficha técnica existente
+
+Dado que eu acesso a pagina principal
+Quando eu acesso o Menu cadastro - > Cadastar Ficha técnica
+Dado que ao preencher o campo "nome do Cardapio", o sistema deve indentificar se a ficha técnica já possui cadastro.
+E então a aplicação deve retornar: "Ficha técnica existente"
+
 
 
 Pesquisando Ficha técnica
@@ -66,7 +129,6 @@ E então devo salvar com sucesso.
 
 
 
-
 Excluindo uma Ficha técnica
 
 Dado que eu acesso a pagina principal
@@ -75,16 +137,19 @@ Então eu devo pesquisar, selecionar e excluir uma ficha técnica.
 
 
 
+Download Ficha técnica
+
+Dado que eu acesso a pagina principal
+Quando eu acesso o Menu cadastro - > Ficha técnica
+Então eu devo pesquisar, selecionar e realizar o download em PDF da ficha técnica.
 
 
 
+Enviar ficha técnica po Email
 
-
-
-
-
-
-
+Dado que eu acesso a pagina principal
+Quando eu acesso o Menu cadastro - > Ficha técnica
+Então eu devo pesquisar, selecionar e realizar o envio por e-mail para a Prefeitura através do botão enviar.
 
 
 
