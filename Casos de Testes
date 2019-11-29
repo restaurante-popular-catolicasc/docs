@@ -1,9 +1,9 @@
-
 Cadastrar um Produto
 
 Dado que eu acesso a pagina principal
 Quando eu acesso o Menu cadastro - > Produto
 Então eu devo criar um novo produto
+Então eu devo verificar todos os campos obrigatórios
 E então devo salvar com sucesso.
 
 
@@ -33,6 +33,51 @@ Excluindo um Produto
 Dado que eu acesso a pagina principal
 Quando eu acesso o Menu cadastro - > Produto
 Então eu devo pesquisar, selecionar e excluir um produto.
+
+
+----------------------------------------------------------------------------------------------------------------------------
+
+
+Cadastrar Ficha técnica
+
+Dado que eu acesso a pagina principal
+Quando eu acesso o Menu cadastro - > Ficha técnica
+Então eu devo criar uma nova técnica
+Então eu devo verificar todos os campos obrigatórios
+E então devo salvar com sucesso.
+
+
+Pesquisando Ficha técnica
+
+Dado que eu acesso a pagina principal
+Quando eu acesso o Menu cadastro - > Ficha técnica
+Então eu devo digitar o código da ficha técnica
+E devo clicar em pesquisar
+Então devo visualizar as fichas técnicas.
+
+
+
+Editando uma Ficha técnica
+
+Dado que eu acesso a pagina principal
+Quando eu acesso o Menu cadastro - > Ficha técnica
+Então eu devo pesquisar e editar uma ficha técnica
+E então devo salvar com sucesso.
+
+
+
+
+Excluindo uma Ficha técnica
+
+Dado que eu acesso a pagina principal
+Quando eu acesso o Menu cadastro - > Ficha técnica
+Então eu devo pesquisar, selecionar e excluir uma ficha técnica.
+
+
+
+
+
+
 
 
 
